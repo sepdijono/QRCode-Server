@@ -10,7 +10,7 @@ Reads qr-codes, show the data: this is server side
 ![Selection_608](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/fa8e9c70-6d1c-4f8c-85a9-486cfbf13771)
 
 QRCode-scanner use OpenCV2 with GPU support, all scanned qr-codes will be shown in a box with respective data on it. There is only two qr-code types: 
-1. Registered qr-code will shown the data (username, full name, address, scanned location
+1. Registered qr-code will shown the data (username, full name, address, scanned location)
 2. Unregistered qr-code will be appeared as "Tidak terdaftar"
 
 Installation:
