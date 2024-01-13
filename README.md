@@ -4,8 +4,8 @@ Reads qr-codes, show the data: this is server side
 
 **This project consists two repositoris** 
 
-* QRCode-Scanner, contains "scanner-side" (this repo)
-* QRCode-Server, contains "server-side"
+* QRCode-Scanner, contains "scanner-side"
+* QRCode-Server, contains "server-side" (this repo)
 
 ![Selection_608](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/fa8e9c70-6d1c-4f8c-85a9-486cfbf13771)
 
