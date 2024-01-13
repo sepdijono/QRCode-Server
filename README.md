@@ -18,6 +18,7 @@ Installation:
 2. Build opencv support gpu using cmake / cmake-gui
 3. Install all dependencies using pip install -r requirements.txt
 4. This project implement FastAPI, PyJwt & Alembic database versioning / migration tools for python, please refers the respective official website
+5. Don't forget to copy env-example to .env
    
 However, unfortunately this is just prototype so it comes as is. 
 
