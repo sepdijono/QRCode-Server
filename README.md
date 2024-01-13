@@ -17,7 +17,7 @@ Installation:
 1. Install postgresql please refers the postgresql official website
 2. Build opencv support gpu using cmake / cmake-gui
 3. Install all dependencies using pip install -r requirements.txt
-4. This project implement FastAPI & Alembic database versioning / migration tools for python, please refers the respective official website
+4. This project implement FastAPI, PyJwt & Alembic database versioning / migration tools for python, please refers the respective official website
    
 However, unfortunately this is just prototype so it comes as is. 
 
