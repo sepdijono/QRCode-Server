@@ -5,9 +5,10 @@ Reads qr-codes, show the data: this is server side
 **This project consists two repositoris** 
 
 * QRCode-Scanner, contains "scanner-side"
+
 * QRCode-Server, contains "server-side" (this repo)
 
-![Selection_608](https://github.com/sepdijono/QRCode-Scanner/assets/54463742/fa8e9c70-6d1c-4f8c-85a9-486cfbf13771)
+![Selection_611](https://github.com/sepdijono/QRCode-Server/assets/54463742/2a717161-fa15-44e7-9da4-eb9e8ef2fff6)
 
 QRCode-scanner use OpenCV2 with GPU support, all scanned qr-codes will be shown in a box with respective data on it. There is only two qr-code types: 
 1. Registered qr-code will shown the data (username, full name, address, scanned location)
